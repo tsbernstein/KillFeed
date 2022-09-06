@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  platform: MyString
+  region: MyString
+  source_player_id: MyString
+  source_player_character: MyString
+  target_player_id: MyString
+  target: 
+  damage: 1
+
+two:
+  platform: MyString
+  region: MyString
+  source_player_id: MyString
+  source_player_character: MyString
+  target_player_id: MyString
+  target: 
+  damage: 1
