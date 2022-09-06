@@ -8,6 +8,7 @@
     * run "bundle exec rails db:setup" to create the database.
     * in the root directory run "rails s" to start the backend server
     * in the root directory run "npm run watch" to start the frontend server
+    * Navigate to localhost:3000 on your browser
 
 # This application uses 
     * Ruby -v 2.5.1
